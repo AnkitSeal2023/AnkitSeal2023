@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitseal2023&label=Profile%20views&color=0e75b6&style=flat" alt="ankitseal2023" /> </p>
 
-- 🔭 I'm currently working on [Amazon Clone](https://github.com/AnkitSeal2023/amazon_clone)
-
 - 📫 How to reach me **ankitseal2021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
