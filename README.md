@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://ankitseal2023.io)
 <h1 align="center">Hi 👋, I'm Ankit Seal</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
