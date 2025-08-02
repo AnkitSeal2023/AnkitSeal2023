@@ -8,7 +8,7 @@
   </a>
 </p>
 
-
+![Banner](https://raw.githubusercontent.com/AnkitSeal2023/AnkitSeal2023/main/ghBanner.png)
 
 <h1 id="-hi-i-m-ankit-seal">👋 Hi, I&#39;m Ankit Seal</h1>
 <p>I&#39;m <strong>Ankit Seal</strong> — a full stack developer and a university student passionate about building scalable web applications and exploring systems programming.</p>
