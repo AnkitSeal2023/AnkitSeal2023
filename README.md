@@ -20,7 +20,7 @@
 <li>🎯 Looking for opportunities to grow as an <strong>SDE</strong>  and collaborate on impactful software projects.</li>
 </ul>
 <h2 id="-tech-stack">🛠️ Tech Stack</h2>
-<p><strong>Languages</strong>:<br><code>Golang</code> <code>Bash</code> <code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>C</code> <code>C++</code> <code>Python</code></p>
+<p><strong>Languages</strong>:<br><i>GO</i> <code>Bash</code> <code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>C</code> <code>C++</code> <code>Python</code></p>
 <p><strong>Frontend</strong>:<br><code>React</code> <code>Next.js</code> <code>HTML</code> <code>CSS</code> <code>Tailwind</code></p>
 <p><strong>Backend</strong>:<br><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Redis</code> <code>htmx</code></p>
 <p><strong>Tools &amp; DevOps</strong>:<br><code>Docker</code>  <code>Prometheus</code>  <code>GCP</code></p>
