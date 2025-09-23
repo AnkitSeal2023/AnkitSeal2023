@@ -15,9 +15,9 @@
 <h2 id="about-me">About Me</h2>
 <ul>
 <li>I&#39;m a Full Stack Developer with experience in the <strong>MERN stack</strong>, <strong>TypeScript</strong>, and <strong>Go</strong>.</li>
-<li>🎓 Currently pursuing my degree while working on real-world projects and open-source contributions.</li>
-<li>🔧 I enjoy building tools, experimenting with backend architectures, and solving problems using code.</li>
-<li>🎯 Looking for opportunities to grow as an <strong>SDE</strong>  and collaborate on impactful software projects.</li>
+<li> Currently pursuing my degree while working on real-world projects and open-source contributions.</li>
+<li> I enjoy building tools, experimenting with backend architectures, and solving problems using code.</li>
+<li> Looking for opportunities to grow as an <strong>SDE</strong>  and collaborate on impactful software projects.</li>
 </ul>
 <h2 id="-tech-stack">🛠️ Tech Stack</h2>
 <p><strong>Languages</strong>:<br><i>GO</i>  <code>Bash</code> <code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>C</code> <code>C++</code> <code>Python</code></p>
