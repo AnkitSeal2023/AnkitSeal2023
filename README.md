@@ -31,4 +31,4 @@
  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,htmx,mongodb,redis,npm,notion,obsidian,postman,gcp" alt="skills2">
  <img src="https://skillicons.dev/icons?i=docker,git,github,prometheus,vercel,netlify,figma,vscode,vim,neovim,linux,arch&amp;theme=dark" alt="skills3"></p>
 <hr>
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AnkitSeal2023&amp;theme=merko&amp;show_icons=true" alt="Ankit&#39;s GitHub stats"></a></p>
+
